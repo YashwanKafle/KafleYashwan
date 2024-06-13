@@ -1,7 +1,7 @@
 $(document).ready(function () {
   const linesToType = ["Hello Everyone,", "I'm Yashwan Kafle"]
 
-  const lineElements = [$(".line1"), $(".line2"), $(".line3")]
+  const lineElements = [$(".line1"), $(".line2")]
 
   let lineIndex = 0
   let charIndex = 0

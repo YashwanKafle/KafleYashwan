@@ -35,11 +35,6 @@ body {
   color: #5a5757bd;
 }
 
-.line3 {
-  font-size: 30px;
-  color: #5a5757bd;
-
-}
 
 .footer {
   position: absolute;
@@ -61,10 +56,6 @@ a {
   .line2 {
     font-size: 18px;
   }
-
-  .line3 {
-    font-size: 24px;
-  }
 }
 
 @media (max-width: 576px) {
@@ -74,9 +65,5 @@ a {
 
   .line2 {
     font-size: 16px;
-  }
-
-  .line3 {
-    font-size: 22px;
   }
 }
