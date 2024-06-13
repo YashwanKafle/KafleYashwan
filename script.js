@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  const linesToType = ["Hello Everyone,", "I'm Yashwan Kafle", "I develop software"]
+  const linesToType = ["Hello Everyone,", "I'm Yashwan Kafle"] //, "I develop software"]
 
   const lineElements = [$(".line1"), $(".line2"), $(".line3")]
 
